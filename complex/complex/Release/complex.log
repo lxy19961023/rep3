@@ -1,0 +1,24 @@
+﻿生成启动时间为 2019/8/25 15:15:35。
+     1>项目“C:\Users\xinayiliu\Desktop\company.cpp\complex\complex\complex.vcxproj”在节点 2 上(build 个目标)。
+     1>PrepareForBuild:
+         正在创建目录“C:\Users\xinayiliu\Desktop\company.cpp\complex\Release\”。
+       InitializeBuildStatus:
+         正在创建“Release\complex.unsuccessfulbuild”，因为已指定“AlwaysCreate”。
+       ClCompile:
+         d:\VS2010\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oi /Oy- /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt test.cpp
+         test.cpp
+       Link:
+         d:\VS2010\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\xinayiliu\Desktop\company.cpp\complex\Release\complex.exe" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Release\complex.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\xinayiliu\Desktop\company.cpp\complex\Release\complex.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\xinayiliu\Desktop\company.cpp\complex\Release\complex.lib" /MACHINE:X86 Release\test.obj
+         正在生成代码
+         已完成代码的生成
+         complex.vcxproj -> C:\Users\xinayiliu\Desktop\company.cpp\complex\Release\complex.exe
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /outputresource:"C:\Users\xinayiliu\Desktop\company.cpp\complex\Release\complex.exe;#1" /manifest Release\complex.exe.intermediate.manifest
+       FinalizeBuildStatus:
+         正在删除文件“Release\complex.unsuccessfulbuild”。
+         正在对“Release\complex.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\xinayiliu\Desktop\company.cpp\complex\complex\complex.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.28
